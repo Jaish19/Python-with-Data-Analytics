@@ -1,0 +1,24 @@
+1. Quest:1
+Input : PythonCodes
+Output: CodesPython
+
+2. Quest:2
+Find Length
+
+3. Quest:3 (Don't use slicing)
+
+Input : LogicWorks
+Output: LogicLogicWorks
+
+4. Quest: 4
+
+Input: a=Five b=5
+Output: 'Five5'
+Output2: '5Five5'
+Output3: 'Five25'
+
+5. Quest 5:
+
+Input : LearningNeverEnds
+Output: 'aiNen+rged'
+
