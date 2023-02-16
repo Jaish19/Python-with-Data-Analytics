@@ -1,0 +1,19 @@
+{
+  "Client_Details" : [
+    {
+      "Name" : "prathap",
+      "Api_Key" : "O0zsUo8i1E0KwvPGZylak2g12lXBOZFdi6iLtyt330Qu7jIrVcU7b9JG6p94TISh",
+      "Api_Secret" : "dbCsr76PCcQyeAAAL8X51jCokMSVIN7TaKEgibQRzEyf1Sd1OonA0xF8hVxAs0Kr"
+    },
+    {
+      "Name" : "shiva",
+      "Api_Key" : "shiva_test_key",
+      "Api_Secret" : "shiva_test_secret"
+    },
+    {
+      "Name" : "Deepan",
+      "Api_Key" : "Deepan_Test_Key",
+      "Api_Secret" : "Deepan_Test_Secret"
+    }
+  ]
+}
